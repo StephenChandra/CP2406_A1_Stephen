@@ -1,3 +1,7 @@
+//Assignment 1 - CP2406
+//by Stephen Anthony Chandra
+//SN: 13251860
+
 import java.util.Scanner;
 
 public class simpleCalc {
